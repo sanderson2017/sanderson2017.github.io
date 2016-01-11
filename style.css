@@ -27,9 +27,14 @@ h3{
 	color: black;
 	text-decoration: underline
 }
-#sample
+#summary{
+	color: green;
+}
 
-.img {
-	display: block;
-	margin: 0 auto 0 auto;
+#background{
+	color: blue;
+}
+
+.unicorns {
+	color: green;
 }
