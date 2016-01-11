@@ -7,4 +7,29 @@ body {
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+
+}
+h1{
+	color: Red;
+	text-align: center;
+}
+h2{
+	color: Red;
+	text-align: center;
+}
+h4 {
+	color: black; 
+	}
+h5 {
+	color: red;
+}
+h3{
+	color: black;
+	text-decoration: underline
+}
+#sample
+
+.img {
+	display: block;
+	margin: 0 auto 0 auto;
 }
